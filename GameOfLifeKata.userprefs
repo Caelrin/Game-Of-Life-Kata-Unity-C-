@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FieldLogic.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CellLogic.cs" Line="33" Column="50" />
+      <File FileName="Assets\Tests\FieldLogicTest.cs" Line="31" Column="3" />
+      <File FileName="Assets\Scripts\FieldLogic.cs" Line="52" Column="24" />
+      <File FileName="Assets\Tests\CellLogicTest.cs" Line="24" Column="63" />
+      <File FileName="Assets\Standard Assets\UUnit\UUnitTestCase.cs" Line="43" Column="1" />
+      <File FileName="Assets\Scripts\FieldGUI.cs" Line="19" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
